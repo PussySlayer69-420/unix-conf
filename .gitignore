@@ -1,3 +1,5 @@
 *.sublime-project
 *.sublime-workspace
 "Package Control.cache"/
+.vscode/
+chipta-dev.sql
