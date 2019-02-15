@@ -3,3 +3,6 @@
 "Package Control.cache"/
 .vscode/
 chipta-dev.sql
+*.code-workspace
+setup.cfg
+disable-csrf.py
